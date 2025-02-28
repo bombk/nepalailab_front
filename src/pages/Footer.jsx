@@ -8,9 +8,9 @@ const Footer = () => {
         
         {/* Company Info */}
         <div>
-          <h2 className="text-xl font-bold text-white">BLOG</h2>
+          <h2 className="text-xl font-bold text-white">NepalAiLab</h2>
           <p className="mt-2 text-sm">
-          A blog is a type of website or online platform where individuals, businesses, or organizations can post content on a regular basis, typically in a reverse chronological order (newest posts at the top). The term "blog" is short for "weblog," which originally referred to a personal journal or log of activities on the web. Blogs can cover a wide range of topics, from personal stories and experiences to specialized fields like technology, lifestyle, fashion, health, education, or even niche hobbies.
+          NepalAiLab is a type of website or online platform where individuals, businesses, or organizations can post content on a regular basis, typically in a reverse chronological order (newest posts at the top). The term "blog" is short for "weblog," which originally referred to a personal journal or log of activities on the web. Blogs can cover a wide range of topics, from personal stories and experiences to specialized fields like technology, lifestyle, fashion, health, education, or even niche hobbies.
           </p>
         </div>
 

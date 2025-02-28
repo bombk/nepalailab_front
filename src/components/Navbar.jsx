@@ -11,7 +11,7 @@ export default function Navbar() {
                 <div className="flex justify-between items-center h-16">
                     {/* Logo */}
                     <h1 className="text-2xl font-bold">
-                        <Link to="/">NepalAILab</Link>
+                        <Link to="/">NepalAiLab</Link>
                     </h1>
 
                     {/* Desktop & Mobile Menu */}
